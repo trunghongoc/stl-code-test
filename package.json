@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "three": "^0.118.1",
+    "three": "^0.137.0",
     "three-stl-loader": "^1.0.6"
   },
   "scripts": {
